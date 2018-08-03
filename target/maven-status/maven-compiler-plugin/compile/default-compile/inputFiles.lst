@@ -1,0 +1,10 @@
+/home/qa/cucumber/bank/src/main/java/nicebank/AtmServer.java
+/home/qa/cucumber/bank/src/main/java/nicebank/TransactionQueue.java
+/home/qa/cucumber/bank/src/main/java/nicebank/Account.java
+/home/qa/cucumber/bank/src/main/java/nicebank/CashSlot.java
+/home/qa/cucumber/bank/src/main/java/nicebank/AutomatedTeller.java
+/home/qa/cucumber/bank/src/main/java/nicebank/AtmServlet.java
+/home/qa/cucumber/bank/src/main/java/nicebank/Teller.java
+/home/qa/cucumber/bank/src/main/java/nicebank/WithdrawalServlet.java
+/home/qa/cucumber/bank/src/main/java/nicebank/TransactionProcessor.java
+/home/qa/cucumber/bank/src/main/java/nicebank/Money.java

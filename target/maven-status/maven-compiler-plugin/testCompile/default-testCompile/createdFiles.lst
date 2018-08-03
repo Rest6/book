@@ -1,0 +1,11 @@
+checkout/nicebank/CashSlotSteps.class
+checkout/hooks/BackgroundProcessHooks.class
+checkout/support/KnowsTheDomain.class
+checkout/hooks/BackgroundProcessHooks$1.class
+checkout/nicebank/AccountSteps.class
+checkout/transforms/MoneyConverter.class
+checkout/support/AtmUserInterface.class
+checkout/hooks/ResetHooks.class
+checkout/nicebank/TellerSteps.class
+checkout/RunCukesTest.class
+checkout/hooks/ServerHooks.class

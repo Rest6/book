@@ -1,0 +1,10 @@
+/home/qa/cucumber/bank/src/test/java/checkout/nicebank/CashSlotSteps.java
+/home/qa/cucumber/bank/src/test/java/checkout/nicebank/TellerSteps.java
+/home/qa/cucumber/bank/src/test/java/checkout/RunCukesTest.java
+/home/qa/cucumber/bank/src/test/java/checkout/transforms/MoneyConverter.java
+/home/qa/cucumber/bank/src/test/java/checkout/nicebank/AccountSteps.java
+/home/qa/cucumber/bank/src/test/java/checkout/hooks/BackgroundProcessHooks.java
+/home/qa/cucumber/bank/src/test/java/checkout/hooks/ServerHooks.java
+/home/qa/cucumber/bank/src/test/java/checkout/support/KnowsTheDomain.java
+/home/qa/cucumber/bank/src/test/java/checkout/hooks/ResetHooks.java
+/home/qa/cucumber/bank/src/test/java/checkout/support/AtmUserInterface.java
